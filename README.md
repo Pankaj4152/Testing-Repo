@@ -10,3 +10,7 @@ Always use Redis cache TTL.
 
 ## requests validaion Rules
 using json for i/o validation of request format
+
+
+## api integration
+added gemini grok apis
